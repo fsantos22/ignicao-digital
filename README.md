@@ -16,9 +16,8 @@ Projeto desenvolvido como parte do processo seletivo em 03/2021.
 
 ## 🚀 Como executar
 * Instale o Node.js
-```
-https://nodejs.org/en/
-```
+[Node Js](https://nodejs.org/en/)
+
 * Clone o repositório
 ```
  $https://github.com/fsantos22/ignicao-digital.git
