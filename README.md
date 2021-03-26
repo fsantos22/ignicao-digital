@@ -11,12 +11,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 Projeto desenvolvido como parte do processo seletivo em 03/2021. 
 
-## Surge
-[Link para teste](http://fabio-santos-id.surge.sh/)
+## Página finalizada
+[Link para navegação](http://fabio-santos-id.surge.sh/)
 
 ## 🚀 Como executar
-* Instale o Node.js
-[Node Js](https://nodejs.org/en/)
+* Instale o [Node Js](https://nodejs.org/en/)
 
 * Clone o repositório
 ```
